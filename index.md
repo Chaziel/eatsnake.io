@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Eatsanake's hompage!
 
 You can use the [editor on GitHub](https://github.com/Chaziel/eatsnake.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
